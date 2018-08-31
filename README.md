@@ -6,7 +6,7 @@ Start Bootstrap Creative is released under the MIT Licence (https://en.wikipedia
 
 Inspired by Start Bootstrap Creative Design (https://startbootstrap.com/template-overviews/creative/)
 
-Modified and Redesigned by Lazaro Ibanez (https://lazaroibanez.bitbucket.io/)
+Modified and Redesigned by Lazaro Ibanez (https://lazaroibanez.github.io/)
 
 ### Change Logs:
 * 13/08/2017 Landing Page created
@@ -16,7 +16,6 @@ Modified and Redesigned by Lazaro Ibanez (https://lazaroibanez.bitbucket.io/)
 * 11/11/2017 favicon.ico added
 * 24/02/2018 Profile updated
 * 14/07/2018 Position name updated
-* 26/07/2018 Import from GitHub
 
 
-© Lazaro Ibanez 2018 All Rights reserved.
+Â© Lazaro Ibanez 2018 All Rights reserved.
