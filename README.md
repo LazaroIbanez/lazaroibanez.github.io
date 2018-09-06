@@ -16,6 +16,7 @@ Modified and Redesigned by Lazaro Ibanez (https://lazaroibanez.github.io/)
 * 11/11/2017 favicon.ico added
 * 24/02/2018 Profile updated
 * 14/07/2018 Position name updated
+* 02/09/2018 New Landing Page and Fitbit Portfolio
 
 
 © Lazaro Ibanez 2018 All Rights reserved.
