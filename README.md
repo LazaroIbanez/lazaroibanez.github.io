@@ -4,7 +4,9 @@
 
 Start Bootstrap Creative is released under the MIT Licence (https://en.wikipedia.org/wiki/MIT_License).
 
-Modified and Redesigned by Lazaro Ibanez (https://lazaroibanez.github.io/)
+### Webs:
+* Landing Page: https://lazaroibanez.github.io/
+* Portfolio: https://lazaroibanez.github.io/portfolio.html
 
 ### Change Logs:
 * 13/08/2017 Landing Page created
