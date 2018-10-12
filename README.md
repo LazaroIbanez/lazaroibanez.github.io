@@ -2,8 +2,6 @@
 
 ### lazaroibanez.github.io
 
-Start Bootstrap Creative is released under the MIT Licence (https://en.wikipedia.org/wiki/MIT_License).
-
 ### Webs:
 * Landing Page: https://lazaroibanez.github.io/
 * Portfolio: https://lazaroibanez.github.io/portfolio.html
@@ -19,6 +17,7 @@ Start Bootstrap Creative is released under the MIT Licence (https://en.wikipedia
 * 02/09/2018 Google Analytics Tracking Code removed. New Landing Page and Fitbit Portfolio
 * 30/09/2018 Landing Page and Fitbit Portfolio completely redesigned
 * 08/10/2018 Google Analytics Tracking Code added to index.html y portfolio.html
+* 12/10/2018 Adding titles. Footer updated.
 
 
 © Lazaro Ibanez 2018 All Rights reserved.
