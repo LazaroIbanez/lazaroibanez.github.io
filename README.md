@@ -18,6 +18,7 @@
 * 30/09/2018 Landing Page and Fitbit Portfolio completely redesigned
 * 08/10/2018 Google Analytics Tracking Code added to index.html y portfolio.html
 * 12/10/2018 Adding titles. Footer updated.
+* 26/10/2018 Bio/Profile updated
 
 
 © Lazaro Ibanez 2018 All Rights reserved.
