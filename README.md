@@ -3,10 +3,13 @@
 ### lazaroibanez.github.io
 
 ### Webs:
-* Landing Page: 
+* Landing Page:
+
 https://lazaroibanez.github.io/  
 http://lazaroibanez.me
-* Portfolio: 
+
+* Portfolio:
+
 https://lazaroibanez.github.io/portfolio.html  
 http://lazaroibanez.me/portfolio.html
 
