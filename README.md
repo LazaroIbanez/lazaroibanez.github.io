@@ -22,4 +22,4 @@
 * 13/01/2019 Bio/Profile update. New domain, new URLs.
 
 
-© Lazaro Ibanez 2018 All Rights reserved.
+© Lazaro Ibanez 2019 All Rights reserved.
