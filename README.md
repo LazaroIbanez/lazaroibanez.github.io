@@ -3,8 +3,8 @@
 ### lazaroibanez.github.io
 
 ### Webs:
-* Landing Page: https://lazaroibanez.github.io/
-* Portfolio: https://lazaroibanez.github.io/portfolio.html
+* Landing Page: https://lazaroibanez.github.io/ http://lazaroibanez.me
+* Portfolio: https://lazaroibanez.github.io/portfolio.html http://lazaroibanez.me/portfolio.html
 
 ### Change Logs:
 * 13/08/2017 Landing Page created
