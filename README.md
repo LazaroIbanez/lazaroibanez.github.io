@@ -3,8 +3,8 @@
 ### lazaroibanez.github.io
 
 ### Webs:
-* Landing Page: https://lazaroibanez.github.io/ http://lazaroibanez.me
-* Portfolio: https://lazaroibanez.github.io/portfolio.html http://lazaroibanez.me/portfolio.html
+* Landing Page: https://lazaroibanez.github.io/  http://lazaroibanez.me
+* Portfolio: https://lazaroibanez.github.io/portfolio.html  http://lazaroibanez.me/portfolio.html
 
 ### Change Logs:
 * 13/08/2017 Landing Page created
@@ -19,6 +19,7 @@
 * 08/10/2018 Google Analytics Tracking Code added to index.html y portfolio.html
 * 12/10/2018 Adding titles. Footer updated.
 * 26/10/2018 Bio/Profile updated
+* 13/01/2019 Bio/Profile update. New domain, new URLs.
 
 
 © Lazaro Ibanez 2018 All Rights reserved.
