@@ -5,14 +5,14 @@
 ### Webs:
 * Landing Page:
 
-https://lazaroibanez.github.io/  
-http://lazaroibanez.me
+https://lazaroibanez.github.io  
+http://lazaroibanez.me  
 http://bit.ly/LandingLazaro
 
 * Portfolio:
 
 https://lazaroibanez.github.io/portfolio.html  
-http://lazaroibanez.me/portfolio.html
+http://lazaroibanez.me/portfolio.html  
 http://bit.ly/FitbitPortfolio
 
 ### Change Logs:
