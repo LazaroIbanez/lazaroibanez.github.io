@@ -7,7 +7,7 @@
 
 https://lazaroibanez.github.io/  
 http://lazaroibanez.me
-http://bit.ly/Landinglazaro
+http://bit.ly/LandingLazaro
 
 * Portfolio:
 
