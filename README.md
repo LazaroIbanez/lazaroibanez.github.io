@@ -7,11 +7,13 @@
 
 https://lazaroibanez.github.io/  
 http://lazaroibanez.me
+http://bit.ly/Landinglazaro
 
 * Portfolio:
 
 https://lazaroibanez.github.io/portfolio.html  
 http://lazaroibanez.me/portfolio.html
+http://bit.ly/FitbitPortfolio
 
 ### Change Logs:
 * 13/08/2017 Landing Page created
@@ -25,9 +27,9 @@ http://lazaroibanez.me/portfolio.html
 * 30/09/2018 Landing Page and Fitbit Portfolio completely redesigned
 * 08/10/2018 Google Analytics Tracking Code added to index.html y portfolio.html
 * 12/10/2018 Adding titles. Footer updated.
-* 26/10/2018 Bio/Portfolio updated
+* 26/10/2018 Bio/Portfolio updated.
 * 13/01/2019 Bio/Portfolio updated. New domain, new URLs.
 * 31/01/2019 Portfolio updated with the hashtag #stayfit.
-
+* 31/01/2019 Bio/Portfolio updated with the bit.ly urls.
 
 © Lazaro Ibanez 2019 All Rights reserved.
