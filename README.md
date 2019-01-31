@@ -19,14 +19,15 @@ http://lazaroibanez.me/portfolio.html
 * 04/10/2017 Google Analytics Tracking Code added
 * 20/10/2017 Background change
 * 11/11/2017 favicon.ico added
-* 24/02/2018 Profile updated
+* 24/02/2018 Portfolio updated
 * 14/07/2018 Position name updated
 * 02/09/2018 Google Analytics Tracking Code removed. New Landing Page and Fitbit Portfolio
 * 30/09/2018 Landing Page and Fitbit Portfolio completely redesigned
 * 08/10/2018 Google Analytics Tracking Code added to index.html y portfolio.html
 * 12/10/2018 Adding titles. Footer updated.
-* 26/10/2018 Bio/Profile updated
-* 13/01/2019 Bio/Profile update. New domain, new URLs.
+* 26/10/2018 Bio/Portfolio updated
+* 13/01/2019 Bio/Portfolio updated. New domain, new URLs.
+* 31/01/2019 Portfolio updated with the hashtag #stayfit.
 
 
 © Lazaro Ibanez 2019 All Rights reserved.
