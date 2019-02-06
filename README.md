@@ -31,5 +31,6 @@ http://bit.ly/FitbitPortfolio
 * 13/01/2019 Bio/Portfolio updated. New domain, new URLs.
 * 31/01/2019 Portfolio updated with the hashtag #stayfit.
 * 31/01/2019 Bio/Portfolio updated with the bit.ly urls.
+* 06/02/2019 Bio updated, description and the LinkedIn bit.ly.
 
 © Lazaro Ibanez 2019 All Rights reserved.
