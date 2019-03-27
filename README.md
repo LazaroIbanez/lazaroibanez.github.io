@@ -33,5 +33,6 @@ http://bit.ly/FitbitPortfolio
 * 31/01/2019 Bio/Portfolio updated with the bit.ly urls.
 * 06/02/2019 Bio updated, description and the LinkedIn bit.ly.
 * 18/03/2019 Bio updated, description and bit.ly urls.
+* 27/03/2019 Bio updated.
 
 © Lazaro Ibanez 2019 All Rights reserved.
