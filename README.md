@@ -37,5 +37,6 @@ http://bit.ly/FitbitPortfolio
 * 26/04/2019 Bio updated (Product Owner).
 * 02/05/2019 Bio updated.
 * 04/05/2019 Bio updated.
+* 06/05/2019 Bio updated (Product Owner).
 
 © Lazaro Ibanez 2019 All Rights reserved.
