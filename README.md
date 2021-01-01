@@ -2,8 +2,6 @@
 
 ### URLs:
 
-* http://lazaroibanez.github.io   
-* http://lazaroibanez.me   
-* http://bit.ly/LazaroIbanez  
+* http://lazaroibanez.github.io 
 
 © Lazaro Ibanez 2020 All Rights reserved.
