@@ -1,65 +1,95 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Lazaro Ibanez</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="robots" content="noarchive">
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="robots" content="noarchive">
 		<meta name="description" content="Lazaro Ibanez">
-    <meta name="author" content="Lazaro Ibanez">
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="icon" type="image/x-icon" href="images/favicon.ico">
-	</head>
-	<body class="is-preload">
+        <meta name="author" content="Lazaro Ibanez">
+        <title>Lazaro Ibanez</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="logo">Lazaro</div>
+                <ul class="nav-links">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
 
-		<!-- Header -->
-		<section id="header" class="dark">
-			<header>
-				<h1>Lazaro Ibanez</h1>
-				<p style="text-align:center; font-style: italic">
-					Senior Technical Leader driving Success for 15+ Years
-				</p>
-			</header>
-		</section>
+        <main>
+            <section id="home" class="hero">
+                <div class="hero-content">
+                    <h1>Hello, I'm <span>Lazaro Ibanez</span></h1>
+                    <p class="subtitle">Senior Technical Leader driving Success for 15+ Years</p>
+                </div>
+                <div class="scroll-down">
+                    <span></span>
+                </div>
+            </section>
 
-		<!-- First -->
-		<section id="first" class="main">
-			<header>
-				<div class="container">
-					<p style="text-align:justify">
-						Senior Technical Leader with 15+ years of experience across Fintech, Finance, Banking, Automotive, and Consulting sectors.
-					</p>
-					<p style="text-align:justify">
-						Proven expertise in designing and securing SaaS cloud solutions for both B2B and B2C markets.
-					</p>
-					<p style="text-align:justify">
-						Skilled in assessing risks, defining strategic roadmaps, developing robust requirements, and building strong partnerships with business and IT stakeholders to ensure compliance and resilience.
-					</p>
-					<p style="text-align:center">
-						<ul class="icons">
-							<li><a title="Blog" href="https://bit.ly/LazaroSubstack" class="icon fa-globe"><span class="label">Blog</span></a></li>
-						</ul>
-					</p>
-				</div>
-			</header>
-		</section>
+            <section id="about" class="about-section">
+                <h2>About Me</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <p style="text-align:justify">
+                            Senior Technical Product Leader with 15+ years of
+                            experience in Fintech, Banking, Automotive, and
+                            Consulting, delivering high-impact digital products
+                            for global brands like VW, CaixaBank, and Elavon.
+                        </p>
+                        <p><br /></p>
+                        <p style="text-align:justify">
+                            Proven expertise in evaluating market opportunities,
+                            defining product roadmaps, and driving strategic
+                            execution, with a strong ability to bridge the gap
+                            between business and tech to achieve scalable
+                            growth.
+                        </p>
+                        <p><br /></p>
+                        <p style="text-align:justify">
+                            Key achievements include:
+                        </p>
+                        <p>
+                            <ul>
+                                <li>Parser: Product roadmaps for the European region, impacting 15M+ users.</li>
+                                <li>VW: Execution of a GDPR compliance strategy for 100+ apps, saving €10M in potential fines.</li>
+                                <li>CaixaBank: Launching of a web, iOS, and Android financial app, reaching 8M+ users.</li>
+                            </ul>
+                        </p>
+                        <p><br /></p>
+                        <p style="text-align:justify">
+                            Recognized for building and scaling products valued at up to £100M, serving 1M+ daily users, and
+                            fostering cross-functional collaboration to drive business success.
+                        </p>
+                    </div>
+                </div>
+            </section>
 
-		<!-- Footer -->
-		<section id="footer">	
-			<div class="copyright">
-				<ul class="menu">
-					<li>Lazaro Ibanez 2024</li><li>Design: <a href="https://html5up.net/tessellate">HTML5 UP</a></li>
-				</ul>
-			</div>
-		</section>
+            <section id="contact" class="contact-section">
+                <div class="social-links">
+                    <a href="https://bit.ly/LazaroLinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://bit.ly/LazaroITwitter" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                </div>
+            </section>
+        </main>
 
-		<!-- Scripts -->
-		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/jquery.scrolly.min.js"></script>
-		<script src="assets/js/browser.min.js"></script>
-		<script src="assets/js/breakpoints.min.js"></script>
-		<script src="assets/js/util.js"></script>
-		<script src="assets/js/main.js"></script>
+        <footer>
+            <p>
+                &copy; <span id="year"></span> Lazaro Ibanez. All rights reserved.
+            </p>
+        </footer>
 
-	</body>
+        <script src="script.js"></script>
+    </body>
 </html>
