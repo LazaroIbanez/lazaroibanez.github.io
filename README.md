@@ -2,4 +2,4 @@
 
 http://lazaroibanez.github.io
 
-© Lazaro Ibanez 2025 All Rights reserved.
+© Lazaro Ibanez 2026 All Rights reserved.
