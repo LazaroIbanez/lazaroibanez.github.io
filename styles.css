@@ -205,7 +205,7 @@ a {
 }
 
 .hero-name {
-    font-size: clamp(3.25rem, 11vw, 8.5rem);
+    font-size: clamp(2.5rem, 6.5vw, 5rem);
     padding-bottom: 0.08em;
     color: var(--text);
 }
