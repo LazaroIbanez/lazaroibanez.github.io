@@ -3,24 +3,36 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="robots" content="noarchive">
-		<meta name="description" content="Lazaro Ibanez">
-        <meta name="author" content="Lazaro Ibanez">
+        <meta name="robots" content="noarchive" />
+        <meta name="description" content="Lazaro Ibanez" />
+        <meta name="author" content="Lazaro Ibanez" />
+        <meta name="theme-color" content="#09090b" />
         <title>Lazaro Ibanez</title>
-        <link rel="stylesheet" href="styles.css" />
+
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Inter+Tight:wght@500;600;700&display=swap"
             rel="stylesheet"
         />
-        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+        <link rel="stylesheet" href="styles.css" />
     </head>
     <body>
-        <header>
-            <nav>
-                <div class="logo">Lazaro</div>
+        <!-- Decorative background layers -->
+        <div class="bg" aria-hidden="true">
+            <div class="bg-grid"></div>
+            <div class="bg-glow bg-glow--1"></div>
+            <div class="bg-glow bg-glow--2"></div>
+            <div class="bg-noise"></div>
+        </div>
+
+        <header class="header">
+            <nav class="nav">
+                <a href="#home" class="logo">Lazaro<span class="logo-dot"></span></a>
                 <ul class="nav-links">
-                    <li><a href="#home">Home</a></li>
+                    <li><a href="#home" class="active">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -29,54 +41,83 @@
 
         <main>
             <section id="home" class="hero">
-                <div class="hero-content">
-                    <h1>Hello, I'm <span>Lazaro Ibanez</span></h1>
-                    <p class="subtitle">Senior Technical Product Leader driving Success for 15+ Years</p>
+                <div class="hero-spotlight" aria-hidden="true"></div>
+                <div class="container hero-content">
+                    <h1>
+                        <span class="hero-hello reveal">Hello, I'm</span>
+                        <span class="hero-name reveal" style="--d: 120ms">Lazaro Ibanez</span>
+                    </h1>
+                    <div class="hero-divider reveal" style="--d: 240ms" aria-hidden="true"></div>
+                    <p class="subtitle reveal" style="--d: 320ms">
+                        Senior Technical Product Leader driving Success for 15+ Years
+                    </p>
                 </div>
-                <div class="scroll-down">
+                <a href="#about" class="scroll-down" aria-label="Scroll to About">
                     <span></span>
-                </div>
+                </a>
             </section>
 
-            <section id="about" class="about-section">
-                <h2>About Me</h2>
-                <div class="about-content">
-                    <div class="about-text">
-                        <p>
-                            Senior Technical Product Leader with 15+ years of
-                            experience in software product management across 
-							MedTech, Fintech, Banking, Automotive, and Consulting.
-                        </p>
-                        <p><br /></p>
-                        <p>
-                            Proven expertise in evaluating market opportunities,
-                            defining product roadmaps, and driving strategic
-                            execution, with a strong ability to bridge the gap
-                            between business and tech to achieve scalable
-                            growth.
-                        </p>
-                        <p><br /></p>
-                        <p>
-                            Recognized for building and scaling products valued at up to £100M, serving 1M+ daily users, and
-                            fostering cross-functional collaboration to drive business success.
-                        </p>
+            <section id="about" class="about">
+                <div class="container about-grid">
+                    <div class="about-heading">
+                        <h2 class="reveal">About Me</h2>
+                        <div class="heading-line reveal" style="--d: 100ms" aria-hidden="true"></div>
+                    </div>
+
+                    <div class="about-cards">
+                        <article class="card card--lead reveal">
+                            <i class="fa-solid fa-layer-group card-icon" aria-hidden="true"></i>
+                            <p>
+                                Senior Technical Product Leader with <strong>15+ years</strong> of
+                                experience in software product management across
+                                MedTech, Fintech, Banking, Automotive, and Consulting.
+                            </p>
+                        </article>
+
+                        <article class="card reveal" style="--d: 100ms">
+                            <i class="fa-solid fa-compass-drafting card-icon" aria-hidden="true"></i>
+                            <p>
+                                Proven expertise in evaluating market opportunities,
+                                defining product roadmaps, and driving strategic
+                                execution, with a strong ability to bridge the gap
+                                between business and tech to achieve scalable
+                                growth.
+                            </p>
+                        </article>
+
+                        <article class="card reveal" style="--d: 200ms">
+                            <i class="fa-solid fa-chart-line card-icon" aria-hidden="true"></i>
+                            <p>
+                                Recognized for building and scaling products valued at up to
+                                <strong>£100M</strong>, serving <strong>1M+</strong> daily users, and
+                                fostering cross-functional collaboration to drive business success.
+                            </p>
+                        </article>
                     </div>
                 </div>
             </section>
 
-            <section id="contact" class="contact-section">
-                <div class="social-links">
-                    <a href="https://bit.ly/LazaroLinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-                    <a href="https://bit.ly/LazaroITwitter" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                    <a href="https://bit.ly/LazaroSubstack" aria-label="Substack"><i class="fas fa-globe"></i></a>
+            <section id="contact" class="contact">
+                <div class="container">
+                    <div class="social-links">
+                        <a href="https://bit.ly/LazaroLinkedIn" aria-label="LinkedIn" class="social reveal" target="_blank" rel="noopener">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                        <a href="https://bit.ly/LazaroITwitter" aria-label="Twitter" class="social reveal" style="--d: 80ms" target="_blank" rel="noopener">
+                            <i class="fab fa-x-twitter"></i>
+                        </a>
+                        <a href="https://bit.ly/LazaroSubstack" aria-label="Substack" class="social reveal" style="--d: 160ms" target="_blank" rel="noopener">
+                            <i class="fas fa-bookmark"></i>
+                        </a>
+                    </div>
                 </div>
             </section>
         </main>
 
-        <footer>
-            <p>
-                &copy; <span id="year"></span> Lazaro Ibanez. All rights reserved.
-            </p>
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; <span id="year"></span> Lazaro Ibanez. All rights reserved.</p>
+            </div>
         </footer>
 
         <script src="script.js"></script>
